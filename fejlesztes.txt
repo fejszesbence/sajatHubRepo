@@ -1,1 +1,3 @@
 Megkezdjük a fejlesztést
+Csinosítjuk a kódot
+Befejezzük a fejlesztést
