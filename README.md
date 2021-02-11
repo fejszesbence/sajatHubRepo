@@ -1,2 +1,3 @@
 # sajatHubRepo
 Specifikáció létrehozása
+Változtattunk
